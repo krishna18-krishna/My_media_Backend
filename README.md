@@ -6,33 +6,33 @@ MyMedia is a simple and clean social media platform where users can register, lo
 
 For Users:
 
-✅ Register and log in securely
-
-📝 Create, update, and delete posts
-
-🖼️ Attach image URLs to posts
-
-👍 Like or unlike other users’ posts
-
-💬 Comments other Users' post
-
-🧑‍💻 View your own posts in a profile/dashboard
-
-🔍 Explore posts by all users
-
-🔐 Secure sessions using JWT
-
-📥 Log out anytime
-
-🔐 Security:
-
-🔹Role-based access control (ready for admin/mod support)
-
-🔹Spring Security and JWT token-based authentication
-
-🔹Passwords hashed with SHA-1 for security
-
-Input validation and error handling
+  ✅ Register and log in securely
+  
+  📝 Create, update, and delete posts
+  
+  🖼️ Attach user images to posts
+  
+  👍 Like or unlike other users’ posts
+  
+  💬 Comments other Users' post
+  
+  🧑‍💻 View your own posts in a profile/dashboard
+  
+  🔍 Explore posts by all users
+  
+  🔐 Secure sessions using JWT
+  
+  📥 Log out anytime
+  
+  🔐 Security:
+  
+  🔹Role-based access control (ready for admin/mod support)
+  
+  🔹Spring Security and JWT token-based authentication
+  
+  🔹Passwords hashed with SHA-1 for security
+  
+  🔹Input validation and error handling
 
 🛠️ Tech Stack
 
@@ -62,7 +62,7 @@ Input validation and error handling
 
 🔹UUIDs used for users
 
-Tables: Users, Posts, Likes, Comments
+🔹Tables: Users, Posts, Likes, Comments
 
 🔄 System Modules
 
@@ -109,4 +109,5 @@ Layered backend structure:
 [View Document](https://docs.google.com/document/d/14y6QYdzFT3BTIuudWl-9N8jXcSFxYVlFPFOcqKSP25Y/edit?usp=sharing) 
 
  Postman API Screenshot
+ 
 ![Screenshot 2025-05-06 091325](https://github.com/user-attachments/assets/a4f7c066-c03f-4ad0-895e-1a237a62f63d)
