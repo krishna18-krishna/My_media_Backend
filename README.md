@@ -32,6 +32,7 @@ Input validation and error handling
 
 🛠️ Tech Stack
 🖥️ Frontend
+
 HTML
 
 CSS
