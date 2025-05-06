@@ -73,6 +73,7 @@ Tables: Users, Posts, Likes, Comments
 ❤️ Like System:
 
 🔹Toggle like/unlike on posts
+
 🔹Real-time like counts
 
 👤 User System:
