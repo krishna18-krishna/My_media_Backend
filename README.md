@@ -78,7 +78,9 @@ Tables: Users, Posts, Likes, Comments
 👤 User System:
 
 🔹Register with full name, username, email, password
+
 🔹JWT-secured login and access
+
 🔹View your personal post list
 
 🧩 Architecture Overview
