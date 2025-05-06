@@ -44,9 +44,9 @@ Input validation and error handling
 
 🔹JavaScript
 
-Bootstrap (for UI styling)
+🔹Bootstrap (for UI styling)
 
-🔹🔙 Backend
+🔙 Backend
 
 🔹Java Spring Boot
 
