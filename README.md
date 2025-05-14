@@ -108,6 +108,12 @@ Layered backend structure:
 
 [View Document](https://docs.google.com/document/d/14y6QYdzFT3BTIuudWl-9N8jXcSFxYVlFPFOcqKSP25Y/edit?usp=sharing) 
 
- Postman API Screenshot
+Screenshots
+
+  Home page
+
+  ![Screenshot 2025-05-14 091853](https://github.com/user-attachments/assets/6d4c9854-4326-41a6-a418-4728579509dc)
+
+  Postman API Screenshot
  
-![Screenshot 2025-05-06 091325](https://github.com/user-attachments/assets/a4f7c066-c03f-4ad0-895e-1a237a62f63d)
+  ![Screenshot 2025-05-06 091325](https://github.com/user-attachments/assets/a4f7c066-c03f-4ad0-895e-1a237a62f63d)
